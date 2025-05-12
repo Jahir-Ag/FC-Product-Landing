@@ -4,7 +4,7 @@ A fictional product landing page created for freeCodeCamp. This project combines
 
 ## Preview
 
-![Product Landing Page Preview](./assets/capture.PNG)
+![Product Landing Page Preview](https://github.com/Jahir-Ag/FC-Product-Landing/blob/main/assets/Capture.PNG?raw=true)
 
 ## Technologies Used
 
